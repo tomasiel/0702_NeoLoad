@@ -1,3 +1,0 @@
-<variable-sql delimiters=";" filename="SqlTemp/SqlVariable_1.csv" name="SqlVariable_1" offset="1" order="3" policy="5" query="" range="1" uid="1e862af9-326a-4fae-b0fd-c8a427496144" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
-<sql-database-connection dbDriver="com.mysql.cj.jdbc.Driver" dbHost="" dbLogin="" dbName="" dbPassword="" dbPort="3306" dbProtocol="mysql://" manualMode="false" manualUrl=""/>
-</variable-sql>
